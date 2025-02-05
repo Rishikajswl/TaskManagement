@@ -49,5 +49,5 @@ export default tseslint.config({
 })
 ```
 
-Live Application : 
+# Live Application : 
 https://task-buddy-f407f.web.app/
